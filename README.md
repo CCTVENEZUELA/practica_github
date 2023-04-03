@@ -1,3 +1,6 @@
 # practica_github
 Equipo 139
-JESUS  AGUIRRE 
+
+Iván Alexis Roble
+
+JESUS  AGUIRRE
